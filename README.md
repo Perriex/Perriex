@@ -43,14 +43,10 @@
 
 <h3 align="center"> Sample Websites</h3>
   <ul>
-    <li> https://openbookshelf.github.io/ProbStat/#/ </li>
-  
+    <li>  https://openbookshelf.github.io/ProbStat/#/ </li>
     <li> https://perriex.github.io/FileMeshUpload/ </li>
-  
     <li> https://perriex.github.io/Dot-Line-Game-JS/ </li>
-  
     <li> https://perriex.github.io/Translator-with-React/ </li>
-  
   </ul>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=perriex.408179647)
