@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm < Parna Asadi ></h1>
 
-
   
  <p data-sourcepos="35:1-38:153" dir="auto"><a href="https://github.com/perriex"><img src="https://camo.githubusercontent.com/95df2e72c00f1c443beec87d3102779178db0010204da8692251303f0e5fc5a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c696e6b3d68747470733a2f2f6769746875622e636f6d2f42526468616e616e69" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat&amp;logo=javascript&amp;link=https://github.com/perriex" style="max-width: 100%;"></a>
 <a href="https://github.com/perriex"><img src="https://camo.githubusercontent.com/1fb4cd0d40caf67a5ab243c2630f8fac5ac0083735e3cdfcfc544d996552b222/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f42526468616e616e69" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white&amp;link=https://github.com/BRdhanani" style="max-width: 100%;"></a>
@@ -14,6 +13,12 @@
 <a href="https://github.com/perriex"><img src="https://camo.githubusercontent.com/1ec5ad3c0956cfe4d851bdf966e4504dfa9691e96674231dc9e7b4fa4f1f7198/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d7265643f7374796c653d666c6174266c6f676f3d616e67756c6172266c696e6b3d68747470733a2f2f6769746875622e636f6d2f42526468616e616e69" alt="Angular" data-canonical-src="https://img.shields.io/badge/-Angular-red?style=flat&amp;logo=angular&amp;link=https://github.com/BRdhanani" style="max-width: 100%;"></a>
 <a href="https://github.com/perriex"><img src="https://camo.githubusercontent.com/c03919752222f8247af4bd30962f1568c2bfb56400db4d1718ddc0aadec28095/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578744a532d626c61636b3f7374796c653d666c6174266c6f676f3d6e6578746a73266c696e6b3d68747470733a2f2f6769746875622e636f6d2f42526468616e616e69" alt="NextJS" data-canonical-src="https://img.shields.io/badge/-NextJS-black?style=flat&amp;logo=nextjs&amp;link=https://github.com/BRdhanani" style="max-width: 100%;"></a>
 </p>
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
   
 
 <p align="center">
@@ -33,12 +38,31 @@
 <h3 align="center">A Junior Front end developer, Studying bachelor's degree of computer engineering at University of Tehran</h3>
 
 <br>
-    
-<br>
+ 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  <a href="https://github.com/perriex">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=perriex&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Perriex's github stats" height="220px" />
- </a>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=perriex&theme=algolia" alt="SubhadeepZilong" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="perriex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perriex&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perriex&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="perriex" height="192px"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/perriex"><img alt="SubhadeepZilong's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perriex&custom_title=perriex's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 
 
 <h3 align="center"> Sample Websites</h3>
@@ -50,3 +74,5 @@
   </ul>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=perriex.408179647)
+
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
