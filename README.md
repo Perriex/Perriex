@@ -13,13 +13,6 @@
 <a href="https://github.com/perriex"><img src="https://camo.githubusercontent.com/1ec5ad3c0956cfe4d851bdf966e4504dfa9691e96674231dc9e7b4fa4f1f7198/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d7265643f7374796c653d666c6174266c6f676f3d616e67756c6172266c696e6b3d68747470733a2f2f6769746875622e636f6d2f42526468616e616e69" alt="Angular" data-canonical-src="https://img.shields.io/badge/-Angular-red?style=flat&amp;logo=angular&amp;link=https://github.com/BRdhanani" style="max-width: 100%;"></a>
 <a href="https://github.com/perriex"><img src="https://camo.githubusercontent.com/c03919752222f8247af4bd30962f1568c2bfb56400db4d1718ddc0aadec28095/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578744a532d626c61636b3f7374796c653d666c6174266c6f676f3d6e6578746a73266c696e6b3d68747470733a2f2f6769746875622e636f6d2f42526468616e616e69" alt="NextJS" data-canonical-src="https://img.shields.io/badge/-NextJS-black?style=flat&amp;logo=nextjs&amp;link=https://github.com/BRdhanani" style="max-width: 100%;"></a>
 </p>
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parna-asadi/">
