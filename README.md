@@ -58,12 +58,14 @@
 
 
 
-<h3 align="center"> Sample Websites</h3>
+<h3 align="center"> Simple Websites for fun</h3>
   <ul>
-    <li>  https://openbookshelf.github.io/ProbStat/#/ </li>
-    <li> https://perriex.github.io/FileMeshUpload/ </li>
-    <li> https://perriex.github.io/Dot-Line-Game-JS/ </li>
-    <li> https://perriex.github.io/Translator-with-React/ </li>
+	<li> https://openbookshelf.github.io/ProbStat/#/ </li>
+	<li> https://perriex.github.io/FileMeshUpload </li>
+	<li> https://perriex.github.io/Dot-Line-Game-JS </li>
+	<li> https://perriex.github.io/Translator-with-React </li>
+	<li> https://github.com/Perriex/turn-it-off (npm)</li>
+	<li> https://perriex.github.io/json-maker </li>
   </ul>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=perriex.408179647)
