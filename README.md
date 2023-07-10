@@ -28,7 +28,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Junior Front end developer, Studying bachelor's degree of computer engineering at University of Tehran</h3>
+<h3 align="center">Front-end Engineer!</h3>
 
 <br>
  
