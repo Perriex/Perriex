@@ -39,24 +39,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="perriex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perriex&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perriex&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="perriex" height="192px"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/perriex"><img alt="SubhadeepZilong's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perriex&custom_title=perriex's%20Contribution%20Graph&theme=react-dark" /></a>
-   
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
 
 <h3 align="center"> Simple Websites for fun</h3>
   <ul>
