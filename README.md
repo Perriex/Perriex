@@ -30,6 +30,9 @@
 </p>
 <h3 align="center">Front-end Engineer! Contact me for fun development experiences!</h3>
 
+<h4 align="center">checkout my new course: [Front-end (zero to hero)](https://github.com/Perriex/Front-end-tutorial)</h4>
+
+
 <br>
  
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
