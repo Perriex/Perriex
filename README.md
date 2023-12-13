@@ -39,5 +39,6 @@
 - Open-source ProbState: https://github.com/Perriex/Build-webapp-with-config
 - Convert JSON to web-form: https://github.com/Perriex/json-maker
 - Feel like playing?: https://perriex.github.io/Dot-Line-Game-JS
+- Use webcam for taking photo: https://perriex.github.io/Take-Picture-React/
 
 </font>
