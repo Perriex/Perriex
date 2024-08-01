@@ -6,7 +6,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Perriex&theme=gruvbox) 
 <h4>Also likes to be enthusiastic about everything else 🤩</h4>
-<p>I am a Computer Engineering student at the University of Tehran. I like human-computer interaction. </p>
+<p>I am a Computer Science student at the University of Ottawa. I like human-computer interaction. </p>
+<p>I was a Computer Engineering student at the University of Tehran. I liked web technologies. </p>
 <br/>
 <p>
 
